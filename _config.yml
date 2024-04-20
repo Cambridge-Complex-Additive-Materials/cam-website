@@ -6,24 +6,21 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Complex Additive Materials Group | Department of Engineering at the University of Cambridge
+title: Evidence-based Comparative Politics Research Unit | University of Münster and Aarhus University
 tagline: >
-  Researching materials
-  chemistry, additive manufacturing, and machine learning
-  to realize entirely new devices and materials to improve
-  interaction with the human body and enhance lives.
-email: dajb3@cam.ac.uk
+  Researching politics in comparative perspective using experimental methods
+  Comparative Politics, social norms, and experimental methods
+email: db@danbischof.com
 description: > # this means to ignore newlines until "baseurl:"
-  The Complex Additive Materials Group is based at the
-  Institute for Manufacturing in the Department of
-  Engineering at the University of Cambridge.
-  The group researches materials chemistry, additive manufacturing,
-  and machine learning to realize entirely new devices
-  and materials whose structure and composition is
-  optimized from the nano- to the macro-scale, to improve
-  interaction with the human body and enhance lives.
+  The Evidence-based Comparative Politics Research Unit is based at the
+  Department of Political Science at the University of Münster as well as 
+  at Aarhus University. The group researches political developments in 
+  contemporary democracies. A major focus is put on the challenges to 
+  recent democracies, such as the erosion of democratic norms, as well as 
+  on major public concerns coming with it such as lack of representation 
+  by political elites and the raise of extremism more generally.
 baseurl: ""
-url: "https://cam-cambridge.github.io"
+url: "https://compev-unit.github.io"
 lang: en_GB
 
 include:
